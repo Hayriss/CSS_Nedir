@@ -31,8 +31,6 @@ CSS teknik olarak kolaydır. Anlaşılması gereken sınırlı sayıda kural var
 
 Tasarım yönleri pazarlamaya ve UX tasarımcısına bırakılabilirken, front-end geliştiricilerin tasarımın nasıl çalıştığını anlamaları da iyidir. Tasarımcıların tümü geliştirici değildir ve bazen tarayıcıların ve piksel rehberliğinin daha ince gereksinimlerini anlamayanlarla karşılaşıyoruz. Dijital tasarımcıların stil sayfalarının inceliklerini ve potansiyel karmaşıklığını öğrenmesi gerektiği kadar, tasarım dilinde de konuşabilmelisiniz.
 
-Front-end geliştirme, disiplinler arası bir alandır. Sadece kodla sınırlı değildir ve sizi etkili kılmak için ek bilgi gerektirir. CSS, kullanıcınızı uygulamaya görsel düzeyde bağlayan şeydir. Nihai kullanıcı deneyimi puanı üzerinde büyük bir etkisi vardır.
-
 # Kaynakça
 - https://levelup.gitconnected.com/what-is-css-specificity-and-how-it-works-833bb0b3d3a
 - https://blog.isimtescil.net/css-nedir/
