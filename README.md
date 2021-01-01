@@ -22,9 +22,9 @@ Hem HTML hem de CSS doğaları gereği bildirimseldir. Bu, yalnızca bir şeyler
 Böylelikle, tanımlı selector'e (h1) bağlı olarak, CSS artık yeni kuralların nereye uygulanacağını anlayabilir.
 
 Bir CSS selector tanımlamanın birçok farklı yolu vardır, aşağıda selector türlerinin bazı örneklerini görebilirsiniz:
-- Class Selector: HTML öğelerini sınıf özelliklerine göre bulur
-- Id Selector: Öğeleri belirli kimliğine göre bulur
-- Element Selector: Öğeleri etiket adlarına göre bulur
+- **Class Selector:** HTML öğelerini sınıf özelliklerine göre bulur
+- **Id Selector:** Öğeleri belirli kimliğine göre bulur
+- **Element Selector:** Öğeleri etiket adlarına göre bulur
 
 # Sonuç
 CSS teknik olarak kolaydır. Anlaşılması gereken sınırlı sayıda kural vardır. Bununla birlikte, CSS'yi zorlaştıran potansiyel kural kombinasyonudur. Görsel gereksinimler daha karmaşık hale geldikçe, CSS kurallarınızın sürdürülebilirliğini kontrol altında tutmak için yaratıcı ancak yapılandırılmış çözümlere ihtiyaç vardır.
