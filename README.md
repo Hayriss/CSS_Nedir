@@ -23,7 +23,18 @@ Böylelikle, tanımlı selector'e (h1) bağlı olarak, CSS artık yeni kurallar�
 
 Bir CSS selector tanımlamanın birçok farklı yolu vardır, aşağıda selector türlerinin bazı örneklerini görebilirsiniz:
 -Class Selector: HTML öğelerini sınıf özelliklerine göre bulur
--Id Selector: öğeleri belirli kimliğine göre bulur
--Element Selector: öğeleri etiket adlarına göre bulur
+-Id Selector: Öğeleri belirli kimliğine göre bulur
+-Element Selector: Öğeleri etiket adlarına göre bulur
 
+# Sonuç
+CSS teknik olarak kolaydır. Anlaşılması gereken sınırlı sayıda kural vardır. Bununla birlikte, CSS'yi zorlaştıran potansiyel kural kombinasyonudur. Görsel gereksinimler daha karmaşık hale geldikçe, CSS kurallarınızın sürdürülebilirliğini kontrol altında tutmak için yaratıcı ancak yapılandırılmış çözümlere ihtiyaç vardır.
 
+Tasarım yönleri pazarlamaya ve UX tasarımcısına bırakılabilirken, front-end geliştiricilerin tasarımın nasıl çalıştığını anlamaları da iyidir. Tasarımcıların tümü geliştirici değildir ve bazen tarayıcıların ve piksel rehberliğinin daha ince gereksinimlerini anlamayanlarla karşılaşıyoruz. Dijital tasarımcıların stil sayfalarının inceliklerini ve potansiyel karmaşıklığını öğrenmesi gerektiği kadar, tasarım dilinde de konuşabilmelisiniz.
+
+Front-end geliştirme, disiplinler arası bir alandır. Sadece kodla sınırlı değildir ve sizi etkili kılmak için ek bilgi gerektirir. CSS, kullanıcınızı uygulamaya görsel düzeyde bağlayan şeydir. Nihai kullanıcı deneyimi puanı üzerinde büyük bir etkisi vardır.
+
+# Kaynakça
+https://levelup.gitconnected.com/what-is-css-specificity-and-how-it-works-833bb0b3d3a
+https://blog.isimtescil.net/css-nedir/
+https://medium.com/swlh/css-for-beginners-what-is-css-and-how-to-use-it-in-web-development-5985afe53096
+https://medium.com/madhash/what-exactly-is-css-d21d17f1031f
