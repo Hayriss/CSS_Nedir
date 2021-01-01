@@ -15,7 +15,7 @@ Hem HTML hem de CSS doğaları gereği bildirimseldir. Bu, yalnızca bir şeyler
 
 Öncelikle, CSS'ye HTML öğesini nasıl bulacağını söylememiz gerekir. Bunu "selector" denen bir özellik ile yapabiliriz. CSS'de bir selector, HTML öğelerini etiket adı, sınıf adı, kimliği ve çok daha fazlasına göre bulmak için kullanılır. O zaman şimdi HTML öğesi için bir selector tanımlayalım ve ardından selector parantezleri arasında her biri noktalı virgülle biten CSS kurallarını bildirelim.
 
-  ``` h1 { color: red;  // CSS rules between brackets}```
+  ``` <h1> { color: red;  // CSS rules between brackets} </h1>```
 
 ![png.2](https://miro.medium.com/max/700/1*YrShrgFIf1Ee3ztba6CI8w.png)
 
