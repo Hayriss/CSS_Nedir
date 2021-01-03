@@ -38,34 +38,28 @@ CSS teknik olarak kolaydır. Anlaşılması gereken sınırlı sayıda kural var
 Tasarım yönleri pazarlamaya ve UX tasarımcısına bırakılabilirken, front-end geliştiricilerin tasarımın nasıl çalıştığını anlamaları da iyidir. Tasarımcıların tümü geliştirici değildir ve bazen tarayıcıların ve piksel rehberliğinin daha ince gereksinimlerini anlamayanlarla karşılaşıyoruz. Dijital tasarımcıların stil sayfalarının inceliklerini ve potansiyel karmaşıklığını öğrenmesi gerektiği kadar, tasarım dilinde de konuşabilmelisiniz.
 Daha fazla özellik ve örnek için [buraya](https://www.w3schools.com/css/) tıklayın.
 
-1. Aşağıdakilerden hangisi CSS için söylenemez?
-  i. Açılımı Cascading Style Sheets'tir.
-  ii. HTML elemanlarının nasıl görüntüleneceğini tanımlar.
-  iii. .css uzantılı dosyalarda saklanırlar.
-  iiii. Css dosyalarında Javascript kodları saklanabilir.(doğru)
+### Sorular
+
+- Aşağıdakilerden hangisi CSS için söylenemez?
+  - Açılımı Cascading Style Sheets'tir.
+  - HTML elemanlarının nasıl görüntüleneceğini tanımlar.
+  - .css uzantılı dosyalarda saklanırlar.
+  - Css dosyalarında Javascript kodları saklanabilir.(doğru)
   
-2. Aşağıdakilerden hangisi metnin rengini belirler?
-  i. color (doğru)
-  ii. text-align
-  iii.text-transform
-  iiii. word-spacing
+- Aşağıdakilerden hangisi metnin rengini belirler?
+  - color (doğru)
+  - text-align
+  - text-transform
+  - word-spacing
   
-3. "kodluyoruz.css" adlı bir css dosyasını html sayfasına dahil etmek için en uygun seçenek aşağıdakilerden hangisidir?
-  i. <head>
-     <link rel="stylesheet" type="text/css" href="kodluyoruz.css">
-     </head> (doğru)
+- "kodluyoruz.css" adlı bir css dosyasını html sayfasına dahil etmek için en uygun seçenek aşağıdakilerden hangisidir?
+  - ```<head> <link rel="stylesheet" type="text/css" href="kodluyoruz.css"> </head>``` (doğru)
      
-  ii. <body>
-     <link rel="stylesheet" type="text/css" href="kodluyoruz.css">
-     </body>
+  - ```<body> <link rel="stylesheet" type="text/css" href="kodluyoruz.css"> </body>```
   
-  iii. <head>
-     <link rel="stylesheet" type="text/css" href="kodluyoruz">
-     </head>
+  - ```<head> <link rel="stylesheet" type="text/css" href="kodluyoruz"> </head>```
      
-  iiii. <head>
-     <link type="text/css" href="kodluyoruz.css">
-     </head>
+  - ```<head> <link type="text/css" href="kodluyoruz.css"> </head>```
 
 # Kaynakça
 - https://levelup.gitconnected.com/what-is-css-specificity-and-how-it-works-833bb0b3d3a
