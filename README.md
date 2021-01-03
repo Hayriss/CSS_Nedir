@@ -24,6 +24,7 @@ Hem HTML hem de CSS doğaları gereği bildirimseldir. Bu, yalnızca bir şeyler
 Böylelikle, tanımlı selector'e (h1) bağlı olarak, CSS artık yeni kuralların nereye uygulanacağını anlayabilir.
 
 Bunların yanısıra css kodlarımızı .css uzantılı bir dosya içerisinde tutar ve bu dosyayı HTML sayfası içerisine basit bir kodla çağırabiliriz. Örneğin Css dosyamızın adı "hello.css" olsun ve bu dosyayı Html sayfaya eklemek için HTML içine yazmamız gereken kod şu şekildedir.
+
  ``` <head> <link rel=”stylesheet” type=”text/css” href=”hello.css” /> </head> ```
 
 Bir CSS selector tanımlamanın birçok farklı yolu vardır, aşağıda selector türlerinin bazı örneklerini görebilirsiniz:
@@ -40,7 +41,7 @@ Daha fazla özellik ve örnek için [buraya](https://www.w3schools.com/css/) tı
 
 ### Sorular
 
-- Aşağıdakilerden hangisi CSS için söylenemez?
+- Aşağıdakilerden hangisi CSS için **söylenemez**?
   - Açılımı Cascading Style Sheets'tir.
   - HTML elemanlarının nasıl görüntüleneceğini tanımlar.
   - .css uzantılı dosyalarda saklanırlar.
