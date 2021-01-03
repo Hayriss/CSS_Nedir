@@ -23,6 +23,9 @@ Hem HTML hem de CSS doğaları gereği bildirimseldir. Bu, yalnızca bir şeyler
 
 Böylelikle, tanımlı selector'e (h1) bağlı olarak, CSS artık yeni kuralların nereye uygulanacağını anlayabilir.
 
+Bunların yanısıra css kodlarımızı .css uzantılı bir dosya içerisinde tutar ve bu dosyayı HTML sayfası içerisine basit bir kodla çağırabiliriz. Örneğin Css dosyamızın adı "hello.css" olsun ve bu dosyayı Html sayfaya eklemek için HTML içine yazmamız gereken kod şu şekildedir.
+ ``` <head> <link rel=”stylesheet” type=”text/css” href=”hello.css” /> </head> ```
+
 Bir CSS selector tanımlamanın birçok farklı yolu vardır, aşağıda selector türlerinin bazı örneklerini görebilirsiniz:
 - **Class Selector:** HTML öğelerini sınıf özelliklerine göre bulur.
 - **Id Selector:** Öğeleri belirli kimliğine göre bulur.
@@ -35,9 +38,39 @@ CSS teknik olarak kolaydır. Anlaşılması gereken sınırlı sayıda kural var
 Tasarım yönleri pazarlamaya ve UX tasarımcısına bırakılabilirken, front-end geliştiricilerin tasarımın nasıl çalıştığını anlamaları da iyidir. Tasarımcıların tümü geliştirici değildir ve bazen tarayıcıların ve piksel rehberliğinin daha ince gereksinimlerini anlamayanlarla karşılaşıyoruz. Dijital tasarımcıların stil sayfalarının inceliklerini ve potansiyel karmaşıklığını öğrenmesi gerektiği kadar, tasarım dilinde de konuşabilmelisiniz.
 Daha fazla özellik ve örnek için [buraya](https://www.w3schools.com/css/) tıklayın.
 
+1. Aşağıdakilerden hangisi CSS için söylenemez?
+  i. Açılımı Cascading Style Sheets'tir.
+  ii. HTML elemanlarının nasıl görüntüleneceğini tanımlar.
+  iii. .css uzantılı dosyalarda saklanırlar.
+  iiii. Css dosyalarında Javascript kodları saklanabilir.(doğru)
+  
+2. Aşağıdakilerden hangisi metnin rengini belirler?
+  i. color (doğru)
+  ii. text-align
+  iii.text-transform
+  iiii. word-spacing
+  
+3. "kodluyoruz.css" adlı bir css dosyasını html sayfasına dahil etmek için en uygun seçenek aşağıdakilerden hangisidir?
+  i. <head>
+     <link rel="stylesheet" type="text/css" href="kodluyoruz.css">
+     </head> (doğru)
+     
+  ii. <body>
+     <link rel="stylesheet" type="text/css" href="kodluyoruz.css">
+     </body>
+  
+  iii. <head>
+     <link rel="stylesheet" type="text/css" href="kodluyoruz">
+     </head>
+     
+  iiii. <head>
+     <link type="text/css" href="kodluyoruz.css">
+     </head>
+
 # Kaynakça
 - https://levelup.gitconnected.com/what-is-css-specificity-and-how-it-works-833bb0b3d3a
 - https://blog.isimtescil.net/css-nedir/
 - https://medium.com/swlh/css-for-beginners-what-is-css-and-how-to-use-it-in-web-development-5985afe53096
 - https://medium.com/madhash/what-exactly-is-css-d21d17f1031f
 - https://www.vargonen.com/blog/css-nedir-css-kodlari-nelerdir/
+- https://weebakademi.com/html-sayfaya-css-ekleme.aspx
