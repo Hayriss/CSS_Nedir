@@ -13,13 +13,13 @@ Hem HTML hem de CSS doğaları gereği bildirimseldir. Bu, yalnızca bir şeyler
   
   ``` <h1>I'm a Header</h1> ```
 
-![png.1](https://miro.medium.com/max/2400/1*XTrm27qwPboOnC35WYUpHQ.png)
+![png1](figures/png1.png)
 
 Öncelikle, CSS'ye HTML öğesini nasıl bulacağını söylememiz gerekir. Bunu "selector" denen bir özellik ile yapabiliriz. CSS'de bir selector, HTML öğelerini etiket adı, sınıf adı, kimliği ve çok daha fazlasına göre bulmak için kullanılır. O zaman şimdi HTML öğesi için bir selector tanımlayalım ve ardından selector parantezleri arasında her biri noktalı virgülle biten CSS kurallarını bildirelim.
 
   ``` h1 { color: red;  // CSS rules between brackets}```
 
-![png.2](https://miro.medium.com/max/700/1*YrShrgFIf1Ee3ztba6CI8w.png)
+![png2](figures/png2.png)
 
 Böylelikle, tanımlı selector'e (h1) bağlı olarak, CSS artık yeni kuralların nereye uygulanacağını anlayabilir.
 
